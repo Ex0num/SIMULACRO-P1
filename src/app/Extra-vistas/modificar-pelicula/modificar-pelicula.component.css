@@ -1,0 +1,77 @@
+#col1-modificar
+{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 1.5rem;
+    margin-right: 10%;
+}
+
+#data-pelicula-modificar
+{
+    margin-bottom: 1rem;
+}
+
+#row1-modificar
+{
+    text-align: center;
+}
+
+#lbl-titulo-modificar
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 0.6rem;
+}
+
+#card-img-modificar
+{
+    border-radius: 20px;
+    width: 100%;
+    height: 25rem;
+    margin-bottom: 1rem;
+}
+
+#lbl-descripcion-modificar
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 0.6rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+#lbl-tipo-modificar, #lbl-fechaEstreno-modificar, #lbl-cantidadPublico-modificar
+{
+    padding-left: 0.3rem;
+}
+
+#row4-modificar, #row5-modificar, #row6-modificar
+{
+    font-size: 16px;
+    font-weight: 500;
+    color: cornflowerblue;
+    margin-left: 5px;
+}
+
+#btn-modificar
+{
+    height: 2.5rem;
+    width: 100%;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: -1rem;
+    margin-bottom: -10rem;
+    background-color: #212529; 
+    color: white;
+    border:  1px solid white;
+}
+
+#lbl-mensaje-temporal-modificar
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 400;
+}
